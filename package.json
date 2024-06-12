@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "testcafe": "^3.6.0"
+  },
+  "devDependencies": {
+    "@testcafe-community/axe": "^3.5.0",
+    "axe-core": "^3.5.5",
+    "axe-testcafe": "^3.0.0"
+  }
+}
